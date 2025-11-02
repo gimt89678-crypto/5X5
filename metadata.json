@@ -1,0 +1,5 @@
+{
+  "name": "Arrow Key's Grid Dodger AI",
+  "description": "A fast-paced action game where you control a square on a grid, dodging incoming projectiles. The longer you survive, the higher your score. Test your reflexes and see how long you can last!\n\n\nthis game uses AI targeting and pattern combinations/generations. ",
+  "requestFramePermissions": []
+}
